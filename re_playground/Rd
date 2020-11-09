@@ -1,0 +1,4 @@
+tar cvzpf - eclipse | split -d -b 20m #zip with splitted packs
+
+cat x*>eclipse.tar.gz #combine
+tar xzvf eclipse.tar.gz #unzip
