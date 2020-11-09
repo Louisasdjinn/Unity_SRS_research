@@ -8,8 +8,8 @@ Python3.8
 -packages in environment at /home/ohk/anaconda3/envs/test_for_DNE:
 
 -Name                    -Version                   -Build  Channel
-_libgcc_mutex             0.1                        main  
-blas                      1.0                         mkl  
+_libgcc_mutex             0.1                        main  \n
+blas                      1.0                         mkl  \n
 ca-certificates           2020.6.20            hecda079_0    conda-forge
 certifi                   2020.6.20        py37he5f6b98_2    conda-forge
 chainer                   7.7.0                      py_0    conda-forge
